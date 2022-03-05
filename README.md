@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://i.ibb.co/d2ZMzKW/IMG-20220102-102925.jpg" alt="cover" />
+<img width="100%" height = "100%" src="https://i.ibb.co/d2ZMzKW/IMG-20220102-102925.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -56,21 +56,12 @@
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=prashantkr006&count_private=true&show_icons=true&theme=onedark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=prashantkr006&count_private=true&show_icons=true&theme=synthwave" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkr006&theme=onedark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantkr006&theme=synthwave" />
 </a>
-
-<h2> My Blog Posts </h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
-
-
-<br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
