@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on My Blog, Github Project.
 
-- 🌱 I’m currently learning Data Science, Android Development. 
+- 🌱 I’m currently enhancing my skills in Mobile app development, and making strong base of data structures and algorithms. 
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
