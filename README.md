@@ -1,8 +1,6 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://i.ibb.co/d2ZMzKW/IMG-20220102-102925.jpg" alt="cover" />
-</div>
+<img src="https://raw.githubusercontent.com/prashantkr006/prashantkr006/output/github-contribution-grid-snake.svg" />
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello < Developers/ >! watch this snake eating my contributions <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantkr006.prashantkr006)
