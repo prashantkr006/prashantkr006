@@ -7,7 +7,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantkr006.prashantkr006)
 
 </p>
-<div size='20px'> Thankyou for visiting at my profile :smile: 
+<div size='20px'><h2> Thankyou for reaching out here, working for the betterment of the Humanity :smile: </h2>
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
