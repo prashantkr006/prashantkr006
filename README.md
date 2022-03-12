@@ -1,12 +1,13 @@
-<img src="https://raw.githubusercontent.com/prashantkr006/prashantkr006/output/github-contribution-grid-snake.svg" />
+# Hi, I am Prashant <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+<p align='center'> 
+ <img src = "https://github.com/prashantkr006/prashantkr006-banner/blob/main/banner.gif" width = "100%" height = "400px">
+<p align='center'> 
 
-<h1> Hello < Developers/ >! watch this snake eating my contributions <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=prashantkr006.prashantkr006)
 
 </p>
-<div size='20px'> Hi! My name is Prashant Kumar Roy. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Thankyou for visiting at my profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -63,3 +64,7 @@
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=synthwave)
+  
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://raw.githubusercontent.com/prashantkr006/prashantkr006/output/github-contribution-grid-snake.svg)
